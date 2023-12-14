@@ -1,4 +1,4 @@
-https://github.com/soiderino/krypton/raw/main/ChromeSetup.exe
+Google Chrome|https://github.com/soiderino/krypton/raw/main/ChromeSetup.exe
 https://download-installer.cdn.mozilla.net/pub/firefox/releases/120.0.1/win32/en-US/Firefox%20Installer.exe
 https://mirror.bahnhof.net/pub/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe
 https://code.visualstudio.com/docs/?dv=win64
