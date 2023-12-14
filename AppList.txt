@@ -1,8 +1,0 @@
-Google Chrome|https://github.com/soiderino/krypton/raw/main/ChromeSetup.exe
-https://download-installer.cdn.mozilla.net/pub/firefox/releases/120.0.1/win32/en-US/Firefox%20Installer.exe
-https://mirror.bahnhof.net/pub/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe
-https://code.visualstudio.com/docs/?dv=win64
-https://dl.pstmn.io/download/latest/win64
-https://www.7-zip.org/a/7z2301-x64.exe
-https://github.com/soiderino/krypton/raw/main/SDI_R2201.zip
-https://github.com/sysprogs/WinCDEmu/releases/download/v4.1/WinCDEmu-4.1.exe
