@@ -3,9 +3,10 @@ Firefox | FirefoxSetup.exe | https://download-installer.cdn.mozilla.net/pub/fire
 VLC | VLCSetup.exe | https://mirror.bahnhof.net/pub/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe | Media
 Discord | DiscordSetup.exe | https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86 | Media
 Visual Studio Code | VSCSetup.exe | https://vscode.download.prss.microsoft.com/dbazure/download/stable/0ee08df0cf4527e40edc9aa28f4b5bd38bbff2b2/VSCodeSetup-x64-1.85.1.exe | Dev
-Node JS | NodeSetup.exe | https://nodejs.org/dist/v21.4.0/node-v21.4.0-x64.msi | Dev
+NodeJS | NodeSetup.exe | https://nodejs.org/dist/v21.4.0/node-v21.4.0-x64.msi | Dev
 Git | GitSetup.exe | https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-64-bit.exe | Dev
 Postman | PostmanSetup.exe | https://dl.pstmn.io/download/latest/win64 | Dev
 7-Zip | 7ZipSetup.exe | https://www.7-zip.org/a/7z2301-x64.exe | Tool
+qBittorrent | qBittorrentSetup.exe | https://download.fosshub.com/Protected/expiretime=1702917728;badurl=aHR0cHM6Ly93d3cuZm9zc2h1Yi5jb20vcUJpdHRvcnJlbnQuaHRtbA==/99f2402eb12c30a9c1646f575b5ebb80c8d65ba40a50d1b63857929175cbbb80/5b8793a7f9ee5a5c3e97a3b2/656522ec2be6f897089e8c23/qbittorrent_4.6.2_x64_setup.exe | Tool
 Snappy Driver Installer | SnappyDriverInstaller.zip | https://github.com/soiderino/krypton/raw/main/SDI_R2201.zip | Tool
 WinCDEmulator | WinCDEmuSetup.exe | https://github.com/sysprogs/WinCDEmu/releases/download/v4.1/WinCDEmu-4.1.exe | Tool
